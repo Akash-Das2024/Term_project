@@ -1,1 +1,1 @@
-# Term_project
+# R-Tree Implementation for image search
